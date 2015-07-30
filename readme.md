@@ -2,7 +2,11 @@
 
 This is very clean dataset The Hill's 50 most beautiful people from 2011 to 2015. It was collected through a mix of scraping and hand-coding.
 
-## Some details:
+## Master File:
+
+- /clean_data/The-Hill-50-Most-Beautiful-People.csv
+
+## Dataset details:
 
 - Level of observation: An individual 
 - Number of observations: 250
